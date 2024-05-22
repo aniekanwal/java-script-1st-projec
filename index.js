@@ -50,6 +50,7 @@ var weather = prompt("Enter your area weather:");
         } else {
             document.write('<div class="card">' +
                 '<div class="card-body">' +
+                           '<img src="banners.ipg" alt="always smile">'
                 '<h1>😜 Are you kidding me?</h1>' +
                 
                 '</div>' +
